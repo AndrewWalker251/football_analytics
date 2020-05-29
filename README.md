@@ -10,3 +10,7 @@ https://figshare.com/collections/Soccer_match_event_dataset/4415000
 
 - Pappalardo et al. (2019) PlayeRank: Data-driven Performance Evaluation and Player Ranking in Soccer via a Machine Learning Approach. ACM Transactions on Intellingent Systems and Technologies (TIST) 10, 5, Article 59 (September 2019), 27 pages. DOI: https://doi.org/10.1145/3343172
 
+
+
+The original article in Nature
+https://www.nature.com/articles/s41597-019-0247-7
