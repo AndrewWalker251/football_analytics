@@ -63,6 +63,7 @@ def pitch():
     ax.text(7,7,'Attack',fontsize=20)
     return fig,ax
 
+
 def draw_pitch(pitch, line, orientation, view):
     """
     Draw a soccer pitch given the pitch, the orientation, the view and the line
